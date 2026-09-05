@@ -29,9 +29,7 @@ This project provides an in-depth data analytics investigation into agricultural
 ```plaintext
 ├── Seasonal_Agriculture_Performance_Analysis.ipynb    # Main Jupyter Notebook containing complete EDA, visualizations & insights
 ├── seasonal_agriculture_performance_dataset.csv       # Primary agricultural dataset used for analysis
-├── Seasonal_Agriculture_Performance_Analysis_VOIS_Major_Project.pptx # Final project presentation slide deck
 ├── Major_Project_Seasonal_Agriculture_Performance_Analysis.pdf       # Detailed project report & documentation
-├── VOIS_Major_Project_PPT_Submission_Template.pptx   # Official VOIS presentation template
 └── README.md                                          # Project documentation & summary
 ```
 
